@@ -1,1 +1,20 @@
-
+# THESE ARE EXAMPLE VALUES, TAKEN FROM THE Core Sector, Ezo System, Ezru Planet, Ezrulian Species
+Core:
+  Systems:
+    - Ceacims
+    - Ezo
+    - Ezubseuy
+    - Floar
+    - Krogsur
+    - Meagda
+    - Paeztip
+    - Qilt
+    - Tho
+    - Troo
+  Anomalies:
+    - Nebula Cloud
+    - Space-Whale Habitat
+  Size:
+    Diameter: ~76 Light Years
+    Volume: ~857 Light Years Cubed
+  Description: A small little area at the center of HAS that contains some of the most sentient, intellient, wise, and old species. In a way, it seems to have an aura of "wisdom" around it.
