@@ -1,1 +1,12 @@
-
+{
+  "name": "SpaceRPG",
+  "version": "0.0.0",
+  "description": "A universe that has lore behind every species, planet, and star system. It has an extensive history, and almost anything is possible!",
+  "main": "server.js",
+  "repository": "https://github.com/TheCodeCrafter/SpaceRPG/",
+  "author": "Noah Coetsee, Tyler Crooks, ...",
+  "dependencies": {
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
