@@ -89,75 +89,75 @@ The most advanced species (Core Systems) will have one or two of each type of th
 
 ## ***Ships***: ##
 ### Shuttle: ###
-Small
-Medium
-Large
-Super
+      Small
+      Medium
+      Large
+      Super
 ### Drone: ###
-Military:
-Scout:
-  Light
-  Normal
-  Heavy
-  Super
-Fighter:
-  Light
-  Normal
-  Heavy
-  Super
-Frigate:
-  Light
-  Normal
-  Heavy
-  Super
-Decoy:
-  Light
-  Normal
-  Heavy
-  Super
-Black OPS:
-  Light
-  Normal
-  Heavy
-  Super
-Industrial:
-Mining:
-  Light
-  Normal
-  Heavy
-  Super
-Refining:
-  Light
-  Normal
-  Heavy
-  Super
-Transport:
-  Light
-  Normal
-  Heavy
-  Super
-Technological:
-Hacker:
-  Light
-  Normal
-  Heavy
-  Super
-Hack Defense:
-  Light
-  Normal
-  Heavy
-  Super
-Science:
-Probe:
-  Light
-  Normal
-  Heavy
-  Super
-Buoy:
-  Light
-  Normal
-  Heavy
-  Super
+      Military:
+      Scout:
+        Light
+        Normal
+        Heavy
+        Super
+      Fighter:
+        Light
+        Normal
+        Heavy
+        Super
+      Frigate:
+        Light
+        Normal
+        Heavy
+        Super
+      Decoy:
+        Light
+        Normal
+        Heavy
+        Super
+      Black OPS:
+        Light
+        Normal
+        Heavy
+        Super
+      Industrial:
+      Mining:
+        Light
+        Normal
+        Heavy
+        Super
+      Refining:
+        Light
+        Normal
+        Heavy
+        Super
+      Transport:
+        Light
+        Normal
+        Heavy
+        Super
+      Technological:
+      Hacker:
+        Light
+        Normal
+        Heavy
+        Super
+      Hack Defense:
+        Light
+        Normal
+        Heavy
+        Super
+      Science:
+      Probe:
+        Light
+        Normal
+        Heavy
+        Super
+      Buoy:
+        Light
+        Normal
+        Heavy
+        Super
 ### Fighter: ###
 ### Corvette: ###
 ### Frigate: ###
