@@ -2,6 +2,8 @@
 
 This is the TODO list for the project codenamed SpaceRPG. Loremasters should use the "Lore" TODO list, while the developers should use the "Development" TODO list.
 
+
+
 ## Lore
 - Design the Ceacims Star System (Jonathon)
 - Design the Ezubseuy Star System (Tyler)
@@ -13,6 +15,8 @@ This is the TODO list for the project codenamed SpaceRPG. Loremasters should use
 - Design the Tho Star System (Jonathon)
 - Design the Troo Star System (Noah)
 - Finish up the Star System Designs for the Core Sector (Noah + Team)
+
+
 
 ## Development
 - Finish up the main sketch-up for player data system (Noah)
