@@ -2,7 +2,7 @@
 
 ---
 
-                     [Lore](https://github.com/TheCodeCrafter/SpaceRPG/blob/master/TODO.md#lore "Lore TODO List") | [Development](https://github.com/TheCodeCrafter/SpaceRPG/blob/master/TODO.md#development "Development TODO List")
+ [Lore](https://github.com/TheCodeCrafter/SpaceRPG/blob/master/TODO.md#lore "Lore TODO List") | [Development](https://github.com/TheCodeCrafter/SpaceRPG/blob/master/TODO.md#development "Development TODO List")
  
 ---
 
