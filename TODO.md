@@ -1,7 +1,9 @@
 # TODO
 
 ---
+
  Lore | Development
+ 
 ---
 
 This is the TODO list for the project codenamed SpaceRPG. Loremasters should use the "Lore" TODO list, while the developers should use the "Development" TODO list.
