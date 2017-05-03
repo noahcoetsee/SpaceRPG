@@ -2,7 +2,7 @@
 
 ---
 
-(https://github.com/TheCodeCrafter/SpaceRPG/blob/master/TODO.md#lore "Lore") | Development
+[LOL](https://github.com/TheCodeCrafter/SpaceRPG/blob/master/TODO.md#lore "Lore") | Development
  
 ---
 
