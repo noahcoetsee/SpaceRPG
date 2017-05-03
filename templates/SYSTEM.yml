@@ -1,1 +1,29 @@
-
+# THESE ARE EXAMPLE VALUES, TAKEN FROM THE Core Sector, Ezo System, Ezru Planet, Ezrulian Species
+Ezo:
+  Star:
+    Name: "White Star"
+    Type: "Class B Star"
+    Magnitude: 100
+    Radiation: 10
+  Ezo I:
+    Name: "Dezru"
+    Life: true
+    Mass: 3.49100+e24
+    Surface Area: 196,900,000
+    Moons:
+      Liteq:
+        Mass: 6.3485+e22
+        Surface Area: 38,000,000
+  Ezo II:
+    Name: "Ezru"
+    Life: true
+    Mass: 1.89800+e26
+    Surface Area: {SA}
+    Moons:
+      Trik:
+        Mass: 4.7352+e22
+        Surface Area: 27,500,000
+      Nik:
+        Mass: 2.48+e21
+        Surface Area: 23,000,010
+        
