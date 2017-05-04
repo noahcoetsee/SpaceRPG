@@ -1,6 +1,6 @@
 # SpaceRPG Research
 
-Here we record all of the research about distances, axis rotations, and all of the properties that affect life.
+Here we record all of the research about distances, axis rotations, and all of the properties that affect life. Just because some of us are real serious about being awesome! :neckbeard:
 
 ## Distances
 
