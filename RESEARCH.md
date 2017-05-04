@@ -80,9 +80,9 @@ Now we have the distances from our solar system to the nearest solar systems.
 
 A neat little image showing the nearby star systems that neighbor "Sol".
 
-![Nearby Star Systems 2](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nearest_stars_red-green.png/600px-Nearest_stars_red-green.png)
+![Nearby Star Systems 2](https://upload.wikimedia.org/wikipedia/commons/5/53/Nearest_stars_rotating_red-green.gif)
 
-Another image, with a more three dimensional feel.
+Another image, with a more three dimensional feel. :wink:
 
 ![Sun's Closest Neighbors](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PIA18003-NASA-WISE-StarsNearSun-20140425-2.png/400px-PIA18003-NASA-WISE-StarsNearSun-20140425-2.png)
 
