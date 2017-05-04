@@ -18,7 +18,7 @@ These are the distances from the sun in our solar system
 #### Pluto: 5906292480 km
 
 Now we have the distances from our solar system to the nearest solar systems.
-***ly = light years***
+***ly = light years*** [Link](https://en.wikipedia.org/wiki/List_of_nearest_stars_and_brown_dwarfs)
 
 #### Alpha Centauri: 4.3650 ly
 #### Barnard's Star: 5.9630 ly
