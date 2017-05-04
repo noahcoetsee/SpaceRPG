@@ -77,9 +77,13 @@ Now we have the distances from our solar system to the nearest solar systems.
 #### DEN 0255-4700: 16.197 ly
 #### GJ 1005: 16.265 ly
 ![Nearby Star Systems 1](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Nearby_Stars_%2814ly_Radius%29.svg/600px-Nearby_Stars_%2814ly_Radius%29.svg.png)
+
 A neat little image showing the nearby star systems that neighbor "Sol".
 
 ![Nearby Star Systems 2](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Nearest_stars_red-green.png/600px-Nearest_stars_red-green.png)
+
 Another image, with a more three dimensional feel.
 
 ![Sun's Closest Neighbors](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PIA18003-NASA-WISE-StarsNearSun-20140425-2.png/400px-PIA18003-NASA-WISE-StarsNearSun-20140425-2.png)
+
+This shows the sun's _very_ close neighboors!
