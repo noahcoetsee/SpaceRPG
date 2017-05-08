@@ -7,7 +7,7 @@
 
 
 # Objective: 
-***To create a persistent universe, in which the economy is simulated based off of player influence, as well as trade between systems, piracy, security, personal miltias, and more.***
+***To create a persistent universe, in which the economy is simulated based off of player influence, as well as trade between systems, piracy, security, personal militias, and more.***
 
 ## Features:
 - 70+ Star Systems to interact with
