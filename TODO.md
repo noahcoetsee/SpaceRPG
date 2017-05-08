@@ -9,7 +9,7 @@
 This is the TODO list for the project codenamed SpaceRPG. Loremasters should use the "Lore" TODO list, while the developers should use the "Development" TODO list.
 
 ## Lore
-- [ ] Design the Ceacims Species (Jonathon)
+- [x] Design the Ceacims Species (Jonathon)
 - [ ] Design the Ezubseuy Species (Tyler)
 - [ ] Design the Floar Species (Noah)
 - [ ] Design the Krogsur Species (Noah)
@@ -21,6 +21,6 @@ This is the TODO list for the project codenamed SpaceRPG. Loremasters should use
 - [ ] Finish up the Star System Designs for the Core Sector (Noah + Team)
 
 ## Development
-- [ ] Finish up the main sketch-up for player data system (Noah)
+- [x] Finish up the main sketch-up for player data system (Noah)
 - [ ] Finish up the sketch-up for player/turret movement (Noah)
 - [ ] Start designing different Ship AI systems (Noah + Evan)
