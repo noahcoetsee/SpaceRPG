@@ -8,6 +8,8 @@
 
 This is the TODO list for the project codenamed SpaceRPG. Loremasters should use the "Lore" TODO list, while the developers should use the "Development" TODO list.
 
+***The constantly updated version of this list can be found on Basecamp.***
+
 ## Lore
 - [x] Design the Ceacims Species (Jonathon)
 - [ ] Design the Ezubseuy Species (Tyler)
