@@ -88,3 +88,16 @@ Solar Koruna (SK). Has deflated from the original Human U.S. Dollar to be worth 
 The most advanced species (Core Systems) will have one or two of each type of these ships, one, or sometimes even two types of titans. The majority of species will have one type of each ship, and no titan. Other species will have limited types for all ships, no SuperCapital ships, and a maximum of two types of capital ships.
 
 ## ***Ships***: ##
+- Shuttle
+- Drone
+- Fighter
+- Corvette
+- Destroyer
+- Battleship
+- Battlecruiser
+- Cruiser
+- Carrier
+- SuperCarrier
+- Capital
+- SuperCapital
+- TITAN
