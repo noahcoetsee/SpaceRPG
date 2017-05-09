@@ -13,7 +13,7 @@ This is the TODO list for the project codenamed SpaceRPG. Loremasters should use
 ## Lore
 - [x] Design the Ceacims Species (Jonathon)
 - [x] Design the Ezubseuy Species (Tyler)
-- [ ] Design the Floar Species (Noah)
+- [x] Design the Floar Species (Noah)
 - [ ] Design the Krogsur Species (Noah)
 - [ ] Design the Meagda Species (Jonathon)
 - [ ] Design the Paeztip Species (Noah)
