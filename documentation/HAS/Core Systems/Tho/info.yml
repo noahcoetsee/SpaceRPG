@@ -1,41 +1,18 @@
 Tho:
   Strength: "Normal"
-  Intelligence: "Beyond Normal Comprehension"
-  Charm: "Slightly Above Normal"
-  Religions: "Iku"
+  Intelligence: "Slightly Above Human Comprehension"
+  Charm: "Normal"
+  Religions: "Religions among the Tho is outlawed"
   Body: 
-    Structure: "Hovering White Orb that can transform to look like almost anything, but the Ezrulian's feel that the Orb shape is holy, and thus use it most often."
-    Height: "Avg. 4 ft"
-    Width: "Avg. 4 ft"
-    Length: "Avg. 4 ft"
+    Structure: > 
+      The Tho are long catipillar/centipede-like creatures that have 20-30 segments and one eye in the front. They are extremely
+      angular throughout their body and have two appendages per segment. At the end of each appendage is a small cup used for
+      climbing up-side-down and sideways. They can see, echo-locate through clicking, feel, and taste.
+    Length: "15 ft"
+    Diameter: "3-4 ft"
   Description: >
-    The Ezrulians are supposed to have been around longer than any other known species, having existed for thousands of Millennium. 
-    They worship a good called Iku. They generally believe that Iku is the universe. This is where they get their 'enviromentalism' 
-    charactaristics. They believe the sole purpose of life is to tend to Iku's needs.
+    Their government outlaws religion, or the practice of superior intelligence having created the universe.
+  History:
+    - "Failed at Creating Research Facillity Near Black Hole"
+    - "Government Outlaws Religion"
     
-    They always avoid, however, using Iku to explain science, or strange or supernatural events. Their reason for believe in Iku
-    is because they believe that Iku controls Worthiness, and Purpose. They use him as a 'personality-why' They worship him through
-    their sun, Ezo. They believe that their sun was created in an ultimate image of Iku.
-    
-    They have been closely observing developing species, such as the Humans in Sol, and are trying to learn more about why (purpose)
-    Iku decided to create life in the universe.
-  History: >
-    Not much is known about Ezrulian history, but we do know that a couple hundred Millennium ago, an Ezrulian who called himself,
-    "Izo" came and fored a group called the "Dezrulians" This group was focused on Iku, and being majorly composed of theologians.
-    Izo claimed that he was immune to any control that Iku could have over him, and that Iku was actually an excuse with no purpose
-    himself. 
-    
-    To prove it, he (and several other followers) ventured "dangerously" close to their radioactive sun (Ezo), and attempted
-    to create a planet. This was a rather new method discovered by scientists on Ezru. They partially succeeded, creating an
-    unstable planet, that could barely support life. He called this planet "Dezru". 
-    
-    Izo and his group went to actually live on this planet, which was covered in volcanoes and frequently had worldwide natural
-    disasters. Inevitably, war broke out between different tribes formed on the planet by the previous Dezrulian clan.
-    
-    The planet is now nearly in ruins, with no 'tribe' winning the ongoing and over 50,000 year old war. The Dezrulians now
-    believe that Iku doesn't exist, and that war is what should be used to solve most problems. 
-    
-    While the Dezrulians may not be as technologically advanced as the present day Ezrulians, they certainly have more advanced,
-    and more devestating weapons.
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
