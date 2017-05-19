@@ -10,7 +10,7 @@
 ***To create a persistent universe, in which the economy is simulated based off of player influence, as well as trade between systems, piracy, security, personal militias, and more.***
 
 ## Features:
-- 70+ Star Systems to interact with
+- 500+ Different and Unique Species to interact with
 - 300+ Commoditites to trade for a profit
 - 150+ Different and Customizable Ships
 - Players can form fleets, to battle NPC, or other Player Fleets.
@@ -18,10 +18,10 @@
 - 4 Different Classes that you can expand your abilities into! (Military, Industrial, Technological, Science)
 
 ## Currency: 
-Solar Koruna (SK). Has deflated from the original Human U.S. Dollar to be worth about what two dollars was back then.
+Solar Koruna (SK). Has deflated from the original Human U.S. Dollar to be worth about what two dollars was back then. [Temporary]
 
-## Systems: ##
-### Core Systems: ###
+## Species: ##
+### Core Species: ###
 - Ceacims
 - Ezo
 - Ezubseuy
@@ -75,7 +75,7 @@ Solar Koruna (SK). Has deflated from the original Human U.S. Dollar to be worth 
 - Thai
 - Vemaun
 - Yupuah
-### Outer Systems: ###
+### Outer Species: ###
 - Acraokrols
 - Heshuas
 - Huajih
