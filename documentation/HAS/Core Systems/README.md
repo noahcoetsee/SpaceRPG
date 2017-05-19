@@ -1,6 +1,6 @@
-# Core Systems
+# Core Species
 
-The Core Systems are the habitat of the some of the galaxies most ancient, and intelligent species in the known Galaxy.
+The Core Species are the ancient species that have been around the galaxy forever.
 
 ## Systems
 - Ceacims
