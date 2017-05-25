@@ -5,7 +5,6 @@ Ceacim:
   Planet: "Storth"
   Charm: "Slightly Above Average Human Charm"
   Religions: "The Erosons Oracles"
-  Population: "1,000,000 - 1,500,000"
   Build: 
     Structure: > 
       The Ceacim are a range of blues/purples and have very dense, but thin leathery skin due to the extreme 
@@ -17,8 +16,6 @@ Ceacim:
       you can see glowing 'veins' that not only transport bromine (their version of our oxygen) but hold their nervous system 
       (including thinking, which explains why they're not very intelligence).
     Height: "5-7 ft"
-    Width: "?"
-    Length: "?"
   Description: > 
     The Ceacim species have been around for a fairly short amount of time compared to other life on their planet 
     Storth (though not as short as humans). They are used to very cold temperatures but could adapt very fast to warmer 
