@@ -8,7 +8,20 @@ First, the ORG must build it's own station, specifically, a Ship Construction Fa
 There are two different direct variables that the ORG can affect. Size, and Tech Level. These two variables will determine the Station's ability to produce certain types of ships, and in a certain amount of time, and cost, etc. Max Tech Level is 10, and Max Size is 15.
 
 Here is the Direct Equation for such Calculations:
-c = 10^8 + 10 * s^t
+c = 10^8 + (10 * s)^t
 
 In English:
-Cost = One Million + 10 Times the Size to the Power of the Tech Level.
+Cost = One Billion + (10 Times the Size) to the Power of the Tech Level.
+
+Example:
+
+To build a station that's got a size level of 3 and tech level of 4
+
+Equation: 10^8 + (100 * 3)^4 = 9,100,000,000 || Nine Billion, 100 Million Credits
+
+## Size Requirements for Classes
+
+There are 15 size levels and 13 classes of ships. These all match up, leaving the last 2 to be reserved for special production.
+
+Size 14 :: Build Military TITAN
+Size 15 :: Build 2 Small-Sized TITANs at the same time
