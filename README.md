@@ -18,7 +18,7 @@
 - 4 Different Classes that you can expand your abilities into! (Military, Industrial, Technological, Science)
 
 ## Currency: 
-Solar Koruna (SK). Has deflated from the original Human U.S. Dollar to be worth about what two dollars was back then. [Temporary]
+UC (Universal Credits). Has deflated from the original Human U.S. Dollar to be worth about what two dollars was back then. [Temporary]
 
 ## Species: ##
 ### Core Species: ###
