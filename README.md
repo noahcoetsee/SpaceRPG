@@ -20,8 +20,8 @@
 ## Currency: 
 UC (Universal Credits). Has deflated from the original Human U.S. Dollar to be worth about what two dollars was back then. [Temporary]
 
-## Species: ##
-### Core Species: ###
+## Systems: ##
+### Core Syystems: ###
 - Ceacims
 - Ezo
 - Ezubseuy
